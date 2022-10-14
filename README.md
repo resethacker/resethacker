@@ -9,7 +9,7 @@
 you can contribute to learning purpose resources that includes Conference, jobs, Writeups, Tutorials, Bugbounty helpdesk, pentesting helpdesk, How to get started, Review on courses etc.
 We're inviting community contributers for early stage cybersecurity HELPDESK.
 
-This project is not limited to bugbounty or pentesting. Anyone is welcome to contribute.
+This project is not limited to bugbounty or pentesting. Other domains are welcome to as well.
 
 ### Rules are quite simple. 
 
